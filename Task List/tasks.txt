@@ -1,0 +1,5 @@
+project kick off,Incomplete
+meeting,Incomplete
+reseach,Complete
+testing fuctionality,Incomplete
+finalize prototype,Incomplete

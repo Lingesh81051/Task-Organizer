@@ -1,0 +1,133 @@
+A Task Organizer is a list of tasks that need to be completed, typically organized in order of priority. 
+It is one of the simplest solutions for task management and provides a minimal and elegant way for 
+managing tasks a person wishes to accomplish. aim is to design a simple and elegant website for people to keep a track of the status of their tasks. Making a Task Organizer list is an easy and important task that everyone should do. The 
+immense satisfaction that one gets when completing the task and marking it on the list are 
+incomparable. Moreover, creating a list of tasks ensure you don’t miss out on anything. It’s a 
+scientific fact that when you write the tasks that you need to complete, you are even more motivated 
+to complete it. With this in mind, we come to build a platform which will help people create their 
+own task list.
+
+
+
+***Steps to run the Project***
+
+----------------------------------------------------------------------------------------------------------
+a>.Installing Python's Tkinter library is usually straightforward, as it comes bundled with Python itself. 
+----------------------------------------------------------------------------------------------------------
+
+
+However, the exact steps might vary depending on your operating system. Here are the general steps for installing and verifying Tkinter on different platforms:
+
+
+**Windows:**
+
+1. **Check Python Installation:** First, ensure you have Python installed on your system. You can download the latest version from the official Python website (https://www.python.org/downloads/).
+
+2. **Verify Tkinter Installation:** Tkinter is included by default with Python on Windows, so you don't need to install it separately. To verify its installation, open the command prompt and run the following command:
+   
+   ```
+   python -m tkinter
+   ```
+
+   This should open a simple Tkinter window, confirming that Tkinter is installed.
+
+
+
+
+**macOS:**
+
+1. **Check Python Installation:** Ensure you have Python installed. macOS usually comes with a pre-installed version of Python, but you might consider installing the latest version from the official Python website.
+
+2. **Verify Tkinter Installation:** Tkinter is included by default with Python on macOS. To check if it's installed, open the Terminal and run:
+   
+   ```
+   python3 -m tkinter
+   ```
+
+   This should open a basic Tkinter window.
+
+
+
+
+
+**Linux:**
+
+1. **Check Python Installation:** Check if Python is installed on your system. Most Linux distributions come with Python pre-installed. If not, you can use your package manager to install it.
+
+2. **Install Tkinter:** On some Linux distributions, Tkinter might not be included with the default Python installation. You can install it using the package manager that corresponds to your distribution:
+
+   - **Debian/Ubuntu:** Run the following command in the terminal:
+     ```
+     sudo apt-get install python3-tk
+     ```
+
+   - **Fedora:** Run the following command:
+     ```
+     sudo dnf install python3-tkinter
+     ```
+
+   - **Arch Linux:** Run:
+     ```
+     sudo pacman -S tk
+     ```
+
+3. **Verify Tkinter Installation:** After installing, you can verify the installation using the same command as for macOS and Windows:
+   
+   ```
+   python3 -m tkinter
+   ```
+
+Remember that the commands to open a Tkinter window might differ slightly based on the version of Python you're using. Use `python -m tkinter` for Python 2 and `python3 -m tkinter` for Python 3.
+
+Once you've completed these steps, you should have Tkinter installed and ready to use for building graphical user interfaces (GUIs) in Python.
+
+
+
+
+----------------------------------------------------------------------------------------------------------
+b>.open the "Task.py" from the "Task List" folder using any Python editor
+----------------------------------------------------------------------------------------------------------
+
+
+**Installing Visual Studio Code:**
+
+1. **Download:** Go to the official Visual Studio Code website: https://code.visualstudio.com/
+   
+2. **Choose Your OS:** Download the installer for your operating system (Windows, macOS, or Linux).
+
+3. **Install:**
+   - **Windows:** Run the downloaded installer and follow the prompts to install.
+   - **macOS:** Open the downloaded `.dmg` file, drag the VS Code icon to the Applications folder, and then open it from there.
+   - **Linux:** Install it using your package manager. For example, on Ubuntu, open a terminal and run:
+     ```
+     sudo apt update
+     sudo apt install code
+     ```
+
+4. **Launch:** Once installed, launch VS Code using the Start menu, application launcher, or terminal.
+
+**Installing Python Extension:**
+
+1. **Open VS Code:** Launch Visual Studio Code.
+
+2. **Install Extension:**
+   - Click on the Extensions icon on the sidebar (or press `Ctrl` + `Shift` + `X`).
+   - Search for "Python" in the Extensions Marketplace.
+   - Install the "Python" extension provided by Microsoft.
+
+That's it! You now have Visual Studio Code installed as your Python editor, complete with the Python extension for coding, debugging, and more.
+
+Remember, there are other Python editors and IDEs available as well, so you can choose the one that suits your needs and preferences. The installation process for most editors follows a similar pattern: download the installer, install the software, and optionally add extensions or plugins for enhanced Python development features.
+
+
+**Other Python Editors**
+
+While VS Code is a popular choice, there are other Python-specific editors and integrated development environments (IDEs) available as well. Here are a few alternatives:
+
+PyCharm: A dedicated Python IDE developed by JetBrains. It comes in both free (Community) and paid (Professional) versions.
+Spyder: A scientific Python IDE with built-in tools for data analysis and visualization.
+Thonny: A beginner-friendly IDE designed for teaching programming to new learners.
+To install these editors, you can follow similar steps: download the installer from their respective websites and follow the installation instructions.
+
+Ultimately, the choice of editor depends on your personal preferences, coding needs, and the features you're looking for. Regardless of which editor you choose, having a dedicated Python editor can significantly improve your coding efficiency and help you write better code.
+
