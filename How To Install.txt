@@ -1,5 +1,6 @@
-A Task Organizer is a list of tasks that need to be completed, typically organized in order of priority. It is one of the simplest solutions for task management and provides a minimal and elegant way for managing tasks a person wishes to accomplish. aim is to design a simple and elegant website for people to keep a track of the status of their tasks. Making a Task Organizer list is an easy and important task that everyone should do. The immense satisfaction that one gets when completing the task and marking it on the list are incomparable. Moreover, creating a list of tasks ensure you don’t miss out on anything. It’s a scientific fact that when you write the tasks that you need to complete, you are even more motivated to complete it.
-With this in mind, we come to build a platform which will help people create their own task list.
+A Task Organizer is a list of tasks that need to be completed, typically organized in order of priority. It is one of the simplest solutions for task management and provides a minimal and elegant way for managing tasks a person wishes to accomplish. 
+aim is to design a simple and elegant website for people to keep a track of the status of their tasks. Making a Task Organizer list is an easy and important task that everyone should do. The immense satisfaction that one gets when completing the task and marking it on the list are incomparable. 
+Moreover, creating a list of tasks ensure you don’t miss out on anything. It’s a scientific fact that when you write the tasks that you need to complete, you are even more motivated to complete it.With this in mind, we come to build a platform which will help people create their own task list.
 
 ***Steps to run the Project***
 
